@@ -1,5 +1,5 @@
 window.onload = function() { 
-$('head').append( $('<link rel="stylesheet" type="text/css" />').attr('href', 'https://cdn.jsdelivr.net/gh/niihen-dzg/template@master/new_release.css') );
+$('head').append( $('<link rel="stylesheet" type="text/css" />').attr('href', 'https://cdn.jsdelivr.net/gh/niihen-dzg/template@master/new_release2.css') );
   
   
 $('#rilis').each(function(){ 
