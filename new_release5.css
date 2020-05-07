@@ -34,7 +34,7 @@
     text-align: center;
 }
 
-.yang-kemarin-rilis h2 {display:none;}
+.yang-kemarin-rilis h2, .widget-aads h2 {display:none;}
 .rlsn {position:relative;width:100%;max-width:690.59px;overflow:hidden;}
 
 .rilisan {width:100%;}
