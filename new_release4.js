@@ -14,11 +14,11 @@ document.getElementById("card-release").innerHTML = hasilrilis;
 });
 
 $('#IKLAN_A-ADS').each(function(){ 
-var w-a-ads = "<div class='a-ads'><table border='0' style='width:100%;'><tr><td data-header='pertama'><div class='st'>"+ad-a+
-"</div></td><td data-header='kedua'><div class='st'>"+ad-b+
+var w_a_ads = "<div class='a-ads'><table border='0' style='width:100%;'><tr><td data-header='pertama'><div class='st'>"+ad_a+
+"</div></td><td data-header='kedua'><div class='st'>"+ad_b+
 "</div></td></tr></table></div>";
 $(this).attr("id", "anonads"); 
-document.getElementById("anonads").innerHTML = w-a-ads;
+document.getElementById("anonads").innerHTML = w_a_ads;
 });
 
 };
