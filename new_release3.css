@@ -60,3 +60,15 @@
 @media only screen and (max-width:304px){
 .rlsn {overflow-x:scroll;}
 }
+
+#KLAN_A-ADS {width:100%;height:auto;padding:0 10px;}
+.a-ads {position:relative;width:100%;height:auto;overflow:hidden;}
+.st {text-align:center;}
+@media only screen and (max-width:479px){
+.a-ads td {display:block;}
+.st {position: relative;left: -93px;}
+}
+@media only screen and (min-width:480px) and (max-width:767px){
+.a-ads td {display:block;}
+.st {position: relative;left: -28px;}
+}
