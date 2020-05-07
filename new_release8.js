@@ -1,5 +1,5 @@
 window.onload = function() { 
-$('head').append( $('<link rel="stylesheet" type="text/css" />').attr('href', 'https://cdn.jsdelivr.net/gh/niihen-dzg/template@master/new_release7.css') );
+$('head').append( $('<link rel="stylesheet" type="text/css" />').attr('href', 'https://cdn.jsdelivr.net/gh/niihen-dzg/template@master/new_release8.css') );
   
 $('#rilis').each(function(){ 
 var lzlod = "https://1.bp.blogspot.com/-8FaUdtZGvFM/XZzJNW-VG5I/AAAAAAAADIo/5520jWvYEqUQ_D8i_vva369pfT1iRtrhwCLcBGAsYHQ/w150-h200-n-l85-fSoften=10,30,0/NiiHen.png"+
