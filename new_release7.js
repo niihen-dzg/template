@@ -1,10 +1,10 @@
 window.onload = function() { 
-$('head').append( $('<link rel="stylesheet" type="text/css" />').attr('href', 'https://cdn.jsdelivr.net/gh/niihen-dzg/template@master/new_release6.css') );
+$('head').append( $('<link rel="stylesheet" type="text/css" />').attr('href', 'https://cdn.jsdelivr.net/gh/niihen-dzg/template@master/new_release7.css') );
   
 $('#rilis').each(function(){ 
 var lzlod = "https://1.bp.blogspot.com/-8FaUdtZGvFM/XZzJNW-VG5I/AAAAAAAADIo/5520jWvYEqUQ_D8i_vva369pfT1iRtrhwCLcBGAsYHQ/w150-h200-n-l85-fSoften=10,30,0/NiiHen.png"+
 "' class='lazy' data-src='";
-var hasilrilis = "<div class='rlsn'><table class='rilisan'><tr>"+
+var hasilrilis = "<div class='rlsn'><div class='lablrilis'>Hentai Yang Baru Rilis</div><table class='rilisan'><tr>"+
 "<td><a href='"+l1+"'><img src='"+lzlod+g1+"' alt='"+j1+"' title='"+j1+"'/><div class='judul-rilisan'>"+j1+"</div></a></td>"+
 "<td><a href='"+l2+"'><img src='"+lzlod+g2+"' alt='"+j2+"' title='"+j2+"'/><div class='judul-rilisan'>"+j2+"</div></a></td>"+
 "<td><a href='"+l3+"'><img src='"+lzlod+g3+"' alt='"+j3+"' title='"+j3+"'/><div class='judul-rilisan'>"+j3+"</div></a></td>"+
